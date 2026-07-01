@@ -33,7 +33,9 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+Most people overestimate motivation and underestimate systems—your environment shapes your outcomes more than willpower.
+Chasing passion and trends is overrated; building rare, valuable skills consistently is what actually compounds.
+Success isn’t dramatic—it’s just boring consistency sustained longer than others.
 
 ---
 
@@ -55,11 +57,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistency over time produces better results than short bursts of intense effort.
 
 ### Evidence from my life
 
-Add your answer here...
+I tried working in intense sprints for a few days and then taking breaks, but progress stalled. When I switched to steady daily work (coding, reviews, learning), output became predictable and improvements compound.
 
 ---
 
@@ -67,11 +69,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Deep focus on fewer things leads to higher quality outcomes than multitasking.
 
 ### Evidence from my life
 
-Add your answer here...
+When I juggled multiple tasks and context-switched frequently, bugs and delays increased. When I focused on one feature/problem at a time, delivery speed improved and code quality was noticeably better.
 
 ---
 
@@ -79,11 +81,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Taking action creates clarity faster than thinking or planning alone.
 
 ### Evidence from my life
 
-Add your answer here...
+I used to overanalyze design decisions or career steps, which delayed progress. When I started implementing quickly and iterating based on feedback, decisions became clearer and results improved faster.
 
 ---
 
@@ -135,11 +137,27 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+## Manish Ghadge: Building Impact Beyond Code
+
+By 2029, Manish Ghadge had established himself as a high-impact engineering leader known for delivering scalable, resilient systems and mentoring high-performing teams. Starting as a Senior Product Software Engineer, he rapidly grew into a **Principal Engineer / Engineering Lead role**, where he led multiple cross-functional initiatives across distributed systems and cloud-native platforms.
+
+Manish had **architected and shipped several production-grade services** running on Kubernetes, significantly improving system reliability and deployment velocity. One of his most notable contributions included modernizing legacy services to **.NET 10-based microservices**, reducing system latency and improving scalability under peak loads. He also led the adoption of **event-driven architecture**, designing robust messaging contracts and improving cross-system communication efficiency.
+
+His GitHub portfolio reflected consistent, high-quality contributions—showcasing **open-source libraries, system design templates, and production-ready reference architectures**. He had also published **technical blogs and deep dives on distributed systems, system reliability, and engineering productivity**, earning recognition within the developer community. His articles were widely shared among engineers working in enterprise-scale systems.
+
+Within his organization, Manish had **mentored multiple engineers**, helping them grow into senior and lead roles. He led design reviews, enforced engineering best practices, and built a reputation as someone who could **simplify complex problems and deliver practical solutions**. His leadership was visible not just in code, but in how teams operated—efficiently, autonomously, and with strong ownership.
+
+He had also contributed beyond his company—**speaking at internal tech conferences and contributing to engineering communities**, sharing lessons on scaling systems and navigating real-world production challenges.
+
+Financially and professionally, he reached a point where his income and responsibilities reflected his value. He focused less on chasing trends and more on **mastering fundamentals, building leverage, and delivering consistent results**.
+
+Above all, Manish became known for one defining trait:
+
+> He didn’t just write code—he built systems, people, and long-term impact.
 
 ### Public Link
 
-Paste your link here:
+Paste your link here: https://medium.com/@mghadge63/manish-ghadge-building-impact-beyond-code-482867fbff71
 
 `__________________________`
 
@@ -173,7 +191,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+I felt an initial sense of relief, as if I had saved time or avoided effort, but it didn’t last. That quickly turned into uneasiness and low-level stress, especially knowing I might have to explain or fix things later. There was also mild guilt and self-doubt, because it didn’t align with the standard I expect from myself. Over time, it created a subtle loss of confidence and a lingering feeling that the outcome wasn’t fully earned, which felt worse than the effort I tried to avoid.
 
 ---
 
@@ -199,16 +217,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Jeet Aapki — Shiv Khera
+2. Sochiye Aur Ameer Baniye — Napoleon Hill
+3. Manachi Shakti Kashi Vaparal — Swami Vivekananda
+4. Yash Tumchya Hatat — Shiv Khera
+5. Majhi Jeevangatha — A.P.J. Abdul Kalam
+6. Eat That Frog! — Brian Tracy
+7. Who Moved My Cheese? — Spencer Johnson
+8. Rich Dad Poor Dad — Robert Kiyosaki
+9. Panipat — Vishwas Patil
+10. Shyamchi Aai — Sane Guruji
 
 ---
 
@@ -237,16 +255,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Energy levels during the day
+* GitHub commits / contributions
+* Learning hours per week
+* Distraction time (social media, etc.)
+* Time spent on high-impact vs low-impact tasks
+* Quality time with family
+* Stress levels
+* Expense tracking
+* Savings rate
+* Courses completed / certifications
 
 ---
 
@@ -272,7 +290,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -290,7 +308,11 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+* Mon–Fri: 60–90 min deep work (learning + coding + system design)
+* Mon–Thu: 30 min focused learning (backend, distributed systems, .NET, architecture)
+* Fri: 30 min reflection + work review (what was done, gaps, improvements)
+* Sat: DMI session
+* Sun: Spend quality time with Family, reading
 
 ---
 
@@ -298,11 +320,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+* Sun: 12-5 pm
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+* 2
 
 ---
 
@@ -316,7 +338,9 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* No social media before first deep work session
+* Check phone only during planned breaks
+* Use noise control (headphones / quiet space)
 
 ---
 
@@ -324,15 +348,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+Trying to focus on work for hour improves productivity.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Social media disctraction and lack of concentration during work.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Social media usage restrict to 30 min.
 
 ### LinkedIn Post
 
@@ -345,7 +369,7 @@ Paste your LinkedIn post link here:
 ## 10. Proof of Work
 
 - LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- Blog / Medium : **https://medium.com/@mghadge63/manish-ghadge-building-impact-beyond-code-482867fbff71**  
 
 ---
 
