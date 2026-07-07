@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![alt text](screenshots/as08-sc1.jpg)
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`__________________________________________`
+`https://medium.com/@mghadge63/reflection-week-2-building-my-first-agentic-ai-workflow-87392cc73d75?sharedUserId=mghadge63`
 
 ---
 
